@@ -1,10 +1,16 @@
 _repo: Through-South-America_49698
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49698-h/images/cover.jpg
 creator:
   author:
     agent_name: Dyke, Harry Weston Van
     gutenberg_agent_id: '45498'
     url: http://www.gutenberg.org/2009/agents/45498
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49698#Through-South-America
 gutenberg_issued: '2015-08-14'
 gutenberg_type: Text
 identifiers:
